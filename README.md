@@ -55,7 +55,7 @@ http://localhost:8091/info
 http://localhost:8091/metrics
 ```
 
-### Create a hotel resource
+### Create a hotel resource.
 
 ```
 POST /example/v1/hotels
