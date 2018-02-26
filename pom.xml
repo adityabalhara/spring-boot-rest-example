@@ -17,6 +17,7 @@
 
 	<properties>
 		<start-class>com.khoubyari.example.Application</start-class>
+                <sonar.host.url>http://internal-hcladityadevopspocsonarelb-792417101.eu-west-1.elb.amazonaws.com</sonar.host.url>
 	</properties>
 
 	<dependencies>
